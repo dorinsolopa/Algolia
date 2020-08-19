@@ -18,10 +18,22 @@
   width: 20px;
   padding: 5px;
   margin-left: 25px;
+  text-align: center;
+  color: white;
+}
+
+.border-white1 {
+
+  border: 2px solid white;
+  height: 23px;
+  width: 20px;
+  padding: 5px;
+  margin-left: 25px;
   margin-top: 25px;
   text-align: center;
   color: white;
 }
+
 .parag {
   align-items: center;
   padding-left: 15px;

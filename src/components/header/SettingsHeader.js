@@ -6,7 +6,7 @@ class SettingsHeader extends React.Component {
     return (
       <div className="flex-container1">
         <div className="space">
-          <div className="border-white">H</div>
+          <div className="border-white1">H</div>
           <div>
             <p className="parag">
               Search <br />
