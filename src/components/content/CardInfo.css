@@ -1,0 +1,12 @@
+.small {
+  padding-right: 10px;
+  padding-left: 10px;
+  cursor: pointer;
+}
+.cursor {
+  cursor: pointer;
+}
+.card {
+  padding-bottom: 25px;
+  padding-right: 10px;
+}
